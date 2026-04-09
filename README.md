@@ -8,7 +8,7 @@ Description: First-year BTech student passionate about Python, AI/ML, drones, an
 
 GitHub Profile README
 
-# Hi, I'm A K 👋
+# Hi, I'm AKSHIT 👋
 
 🎓 First-year BTech student  
 💻 Passionate about Python, AI/ML, and automation   
